@@ -1,0 +1,5 @@
+name: SilkspawnersAddon
+version: 1.0
+author: ciakid
+description: Addon
+main: me.ciakid.Plugin

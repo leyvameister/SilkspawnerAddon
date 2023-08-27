@@ -1,0 +1,7 @@
+# Time in hours (decimals allowed)
+ExpirationTime: 4.0
+Messages:
+  ShowMessages: true
+  RemovalMessage: '&cExpired spawner in your inventory has been removed.'
+  InventoryRemovalMessage: '&cExpired spawner removed from this inventory.'
+  PickupExpiredItemMessage: '&cThe item you are trying to pick up has expired.'
